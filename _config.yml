@@ -1,0 +1,14 @@
+layout_spectrum: 0.7794268832076341
+typography_spectrum: 0.9483199224341661
+color:
+  brandStrength: 0.39664492500014603
+  lightness: 0.6253456920385361
+  saturation: 0.9116683662869036
+  rhythmicContrast: 0.5257002289872617
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: DodoPhoto
